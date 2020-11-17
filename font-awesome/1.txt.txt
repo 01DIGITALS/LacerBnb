@@ -1,0 +1,2 @@
+Questo è un file che non serve a niente.
+Sarà cancellato.
